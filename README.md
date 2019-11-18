@@ -1,2 +1,2 @@
 # helloworld01
-KOSTA 수업
+KOSTA 수업!
